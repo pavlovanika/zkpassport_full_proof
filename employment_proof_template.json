@@ -1,0 +1,7 @@
+# employment_proof_template.json
+{
+  "circuit": "employment.nr",
+  "public_signals": ["required_job_role_code"],
+  "private_signals": ["job_role_code"],
+  "commitment": "0x_employment_commitment_placeholder"
+}
