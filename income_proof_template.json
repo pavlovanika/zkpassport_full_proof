@@ -1,0 +1,7 @@
+# income_proof_template.json
+{
+  "circuit": "income.nr",
+  "public_signals": ["min_income_required"],
+  "private_signals": ["income_value"],
+  "commitment": "0x_income_commitment_placeholder"
+}
