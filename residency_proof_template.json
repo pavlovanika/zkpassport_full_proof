@@ -1,0 +1,7 @@
+# residency_proof_template.json
+{
+  "circuit": "residency.nr",
+  "public_signals": ["allowed_residency_region_code"],
+  "private_signals": ["residency_country_code"],
+  "commitment": "0x_residency_commitment_placeholder"
+}
