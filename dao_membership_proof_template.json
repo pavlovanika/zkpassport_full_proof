@@ -1,0 +1,8 @@
+
+# dao_membership_proof_template.json
+{
+  "circuit": "dao_membership.nr",
+  "public_signals": ["min_dao_passport_score"],
+  "private_signals": ["dao_passport_score"],
+  "commitment": "0x_dao_membership_commitment_placeholder"
+}
