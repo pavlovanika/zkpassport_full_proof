@@ -1,0 +1,7 @@
+# sanctions_proof_template.json
+{
+  "circuit": "sanctions.nr",
+  "public_signals": [],
+  "private_signals": ["sanctions_flag_code"],
+  "commitment": "0x_sanctions_commitment_placeholder"
+}
