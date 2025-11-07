@@ -1,0 +1,8 @@
+
+# age_proof_template.json
+{
+  "circuit": "age.nr",
+  "public_signals": ["min_age"],
+  "private_signals": ["user_age"],
+  "commitment": "0x_age_commitment_placeholder"
+}
