@@ -1,0 +1,7 @@
+# pep_proof_template.json
+{
+  "circuit": "pep_check.nr",
+  "public_signals": [],
+  "private_signals": ["pep_flag_code"],
+  "commitment": "0x_pep_commitment_placeholder"
+}
