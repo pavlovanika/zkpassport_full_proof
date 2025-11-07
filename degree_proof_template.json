@@ -1,0 +1,7 @@
+# degree_proof_template.json
+{
+  "circuit": "degree.nr",
+  "public_signals": ["required_degree_code"],
+  "private_signals": ["degree_code"],
+  "commitment": "0x_degree_commitment_placeholder"
+}
