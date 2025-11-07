@@ -1,0 +1,19 @@
+# inputs.json
+{
+  "user_age": 23,
+  "min_age": 18,
+  "nationality_code": 764,
+  "allowed_region_code": 100,
+  "job_role_code": 101,
+  "required_job_role_code": 101,
+  "degree_code": 501,
+  "required_degree_code": 400,
+  "income_value": 80000,
+  "min_income_required": 50000,
+  "residency_country_code": 764,
+  "allowed_residency_region_code": 100,
+  "sanctions_flag_code": 0,
+  "pep_flag_code": 0,
+  "dao_passport_score": 42,
+  "min_dao_passport_score": 10
+}
