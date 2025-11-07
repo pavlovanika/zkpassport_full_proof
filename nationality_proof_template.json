@@ -1,0 +1,7 @@
+# nationality_proof_template.json
+{
+  "circuit": "nationality.nr",
+  "public_signals": ["allowed_region_code"],
+  "private_signals": ["nationality_code"],
+  "commitment": "0x_nationality_commitment_placeholder"
+}
