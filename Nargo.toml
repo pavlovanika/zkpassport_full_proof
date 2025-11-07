@@ -1,0 +1,9 @@
+# Nargo.toml
+[package]
+name = "zkpassport_multiproof_noir"
+version = "0.1.0"
+authors = ["zkPassport Lab"]
+compiler_version = ">=0.26.0"
+
+[dependencies]
+std = { git = "https://github.com/noir-lang/noir", tag = "v0.26.0" }
